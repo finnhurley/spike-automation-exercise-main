@@ -1,17 +1,5 @@
 # Getting Started
 
-## Exercise Instructions
-
-- Provide the following documentation with applicable examples:
-  - How to get the latest code.
-  - How to deploy it locally.
-  - How to run the tests.
-
-- Intended audience: new members of the team who will need to use your tests.
-- The instructions will be used by the reviewer of your PR for completeness.
-
-**Note:** Remove this section after completing the exercise.
-
 ## Purpose
 
 spike-automation-exercise-main is a Typescript/Cypress-based automation suite written to validate the functionality of the automationexercise UI and API.
@@ -57,12 +45,6 @@ from here, select E2E testing as your testing type and select the browser of you
 
 from here you will be presented with a list of specs, and you can select the .cy.ts file and follow along with the test cases
 
-## Additional Details
-
-Provide any other details you find pertinent, such as troubleshooting tips, common issues, or additional setup steps.
-
----
-
 ## Links
 
-[README](README.md) | [EXERCISE](EXERCISE.md) | [ISSUES](ISSUES.md) | [FEEDBACK](FEEDBACK.md)
+[README](README.md)

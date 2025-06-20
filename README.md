@@ -29,4 +29,4 @@ This repository is designed for prospective candidates to complete a technical i
 
 ## Links
 
-[EXERCISE](EXERCISE.md) | [GETTING_STARTED](GETTING_STARTED.md) | [ISSUES](ISSUES.md) | [FEEDBACK](FEEDBACK.md)
+[GETTING_STARTED](GETTING_STARTED.md) |
